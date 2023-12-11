@@ -108,7 +108,8 @@ void setup() {
   Serial.begin(115200);
   Serial.println("Inicializando BLE");
   
-  // Create the BLE Device
+  // Crear el dispositivo BLE
+  // Aqui se cambia el nombre del dispositivo
   BLEDevice::init("Artisendos");
 
   // Crear el servidor BLE
