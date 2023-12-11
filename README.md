@@ -23,11 +23,17 @@ A continuación se presenta el diagrama eléctrico del sistema. Aquí se muestra
 
 ## Uso y pruebas
 
-1. Carga el codigo al ESP32 (en caso de querer cambiar el nombre del dispositivo Bluetooth, todo esta documentado en el codigo).
-2. Realiza las conexiones en base al esquema eléctrico.
-3. Abre la aplicación, presiona el icono de Bluetooth y busca el dispositivo BLE.
-4. Conéctate al ESP32.
-5. Usa la aplicación para enviar comandos al ESP32 y controlar los motores del robot.
+1. Clona este repositorio en tu máquina local.
+2. Carga el codigo a tu ESP32 utilizando Arduino IDE (en caso de querer cambiar el nombre del dispositivo Bluetooth, todo esta documentado en el codigo).
+3. Realiza las conexiones en base al esquema eléctrico.
+4. Abre la aplicación, presiona el icono de Bluetooth y busca el dispositivo BLE.
+5. Conéctate al ESP32.
+6. Usa la aplicación para enviar comandos al ESP32 y controlar los motores del robot.
+
+## Código Fuente de la Aplicación Móvil
+
+El código fuente de la aplicación móvil que controla el robot se puede encontrar en este enlace [**ArtiSendos React Native**](https://github.com/directsgg/ArtiSendos-React-Native.git). Por favor, consulta este repositorio para obtener detalles sobre la aplicación.
+
 
 ## Contribuciones
 
