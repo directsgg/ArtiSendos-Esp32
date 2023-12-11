@@ -9,7 +9,7 @@ Este repositorio contiene el código fuente para un microcontrolador ESP32. El p
 
 - App disponible en este repositorio llamada ArtiSendos.apk compatible con BLE
 - Microcontrolador ESP32 Dev Kit V1
-- Controlador de motor DRV8833 (para evitar que este en modo sleep hay que hacer soldar el puente de J2 tal y como se describe [aquí](https://lastminuteengineers.com/drv8833-arduino-tutorial/)
+- Controlador de motor DRV8833 (para evitar que este en modo sleep hay que soldar el puente de J2 tal y como se describe [aquí](https://lastminuteengineers.com/drv8833-arduino-tutorial/)
 - Dos motores de 5V N20
 - Un interruptor ON OFF
 - Fuente de alimentacion 5V (Power Bank, o cualquier fuente regulable)
