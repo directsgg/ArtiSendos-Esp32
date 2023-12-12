@@ -26,7 +26,7 @@ A continuación se presenta el diagrama eléctrico del sistema. Aquí se muestra
 1. Clona este repositorio en tu máquina local.
 2. Carga el codigo a tu ESP32 utilizando Arduino IDE (en caso de querer cambiar el nombre del dispositivo Bluetooth, todo esta documentado en el codigo).
 3. Realiza las conexiones en base al esquema eléctrico.
-4. Abre la aplicación, presiona el icono de Bluetooth y busca el dispositivo BLE.
+4. Abre la aplicación, presiona el icono de Bluetooth y busca el dispositivo BLE (te pedirá permisos de ubicación, no me preguntes por qué, es cuestión de la libreria que gestiona bluetooth).
 5. Conéctate al ESP32.
 6. Usa la aplicación para enviar comandos al ESP32 y controlar los motores del robot.
 
